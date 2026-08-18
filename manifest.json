@@ -2,12 +2,12 @@
   "schema": 1,
   "firmware": {
     "consumer": {
-      "version": "v1.0.1",
-      "built": 1786760378,
+      "version": "v1.0.2",
+      "built": 1787017611,
       "url": "consumer.wpb",
-      "size": 842382,
-      "sha256": "ae795ee24170bf2429038304c9fa74c5782d20a8333806f1ce37d176946fad6d",
-      "notes": "- Improved scanning reliability for handheld scoreboard controllers.\n- Improved the board status lights."
+      "size": 843246,
+      "sha256": "fe29184347f33d71b423aad8fff9ef40cf9ef0fe7a2fc4c20adccc3316d9c848",
+      "notes": "Improved discovery and pairing, and better stability when several devices use the same Board."
     }
   }
 }
