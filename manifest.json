@@ -2,12 +2,12 @@
   "schema": 1,
   "firmware": {
     "consumer": {
-      "version": "v1.0.2",
-      "built": 1787017611,
+      "version": "v1.0.3",
+      "built": 1787294258,
       "url": "consumer.wpb",
-      "size": 843246,
-      "sha256": "fe29184347f33d71b423aad8fff9ef40cf9ef0fe7a2fc4c20adccc3316d9c848",
-      "notes": "Improved discovery and pairing, and better stability when several devices use the same Board."
+      "size": 843454,
+      "sha256": "5d1e578d4dbbf5a832a5eee5de7aaff64d76375fc4863dbac8e00c86263b6da6",
+      "notes": "Improved recovery when a scan is interrupted, and clearer rejection of channels the Board cannot receive."
     }
   }
 }
