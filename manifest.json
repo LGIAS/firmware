@@ -2,12 +2,12 @@
   "schema": 1,
   "firmware": {
     "consumer": {
-      "version": "v1.0.3",
-      "built": 1787294258,
+      "version": "v1.0.4",
+      "built": 1788145753,
       "url": "consumer.wpb",
-      "size": 843454,
-      "sha256": "5d1e578d4dbbf5a832a5eee5de7aaff64d76375fc4863dbac8e00c86263b6da6",
-      "notes": "Improved recovery when a scan is interrupted, and clearer rejection of channels the Board cannot receive."
+      "size": 844014,
+      "sha256": "3681daf0aca7387102ac2478293ff9bf6bbee0bdbba373369e15e5ee352176a1",
+      "notes": "- A factory reset is now visible: a Board with factory settings glows green.\n- The reset button responds after a 5 second hold instead of 10.\n- The blue light stays off, and the color light is brighter.\n- Improved scanning reliability.\n-----BEGIN PGP SIGNATURE-----\n\niQJPBAABCAA5FiEEwgMIORSn8wCgb7BwgjyVjOTtbCkFAmqVBqsbFIAAAAAABAAO\nbWFudTIsMi41KzEuMTIsMCwzAAoJEII8lYzk7WwpJPsP/1bIpffre/OckIZr6iMP\n1SrtM9OxDzL+hekEIOjsaZ1T+DSllgL7FvcyrMTjtwfMabynhs6sB/XSxZtgHIAt\nNNpvtRX8jmTCO1tSlAIKZCWqFgciVx5cf4yrUk1rwQnF/8Xp8IEPmNXVYog2F+ox\n7iwDtG6vpJ8r3expkTnd9y9LDLfQ1eY4cDwEF4c9cTDXeJy9KRyLcG6GM8f4lAlc\nSFCiDeC3ruWqg1IbsSfHZz8GK2bgN8KdhaXmAYTgXSi7nRtCvApib4HtZC5pDfKR\n0TZtWtgHOeDLC4fKPpvQAhiQoKwE6vnH9yj9rfcE1LCQXxhMqBZ1uuV7BVQmSt+1\naB885mt3+fGHOyAOQiFbRuOKspLX6XsZ0xlvw7dwitgXZvc2s/ptGeA9k3PeOo6B\nrfVICf+qbf6C8rjky1R9o6ELydwmQ8IV9JuLmHB/IEHoTVxyhI3Rm0bdyTg6oxEu\nCzjx0S3r49b7qnCSn5P3wB0OIzahVagdG7C86kF09NL6whVFTPWtWmDoKZQNWAl+\n7LHl/Qjfcxkw/zwy3f4FTY/UEwvcJ7QHMlGF+Rf7ALkVd2UV/YySFQKJ+5pkHSxR\nNhcs4xx3XdZjy9kVWntNKwOU+QDyZ1IKp2NuT9sJ/QFLe7RkYiqbS9dr3O2t2UpL\njFRbiDIQCEem/KUcYwhIi1M2\n=ujZg\n-----END PGP SIGNATURE-----"
     }
   }
 }
