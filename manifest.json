@@ -2,12 +2,12 @@
   "schema": 1,
   "firmware": {
     "consumer": {
-      "version": "v1.1.0",
-      "built": 1788487574,
+      "version": "v1.1.1",
+      "built": 1788506890,
       "url": "consumer.wpb",
-      "size": 855022,
-      "sha256": "def7a1cbbc7d2d140b097bac4f22ade597bf8383b4811648e1108d9861e036b5",
-      "notes": "- Setting up a Board no longer needs a Bluetooth pairing prompt.\n- Changing a Board's PIN now removes every other phone from it.\n- Joining someone else's Board asks for that Board's PIN.\n- Improved reliability of Board updates when more than one phone is connected.\n- Improved reliability of commands between the app and the Board.\n- The Board now reports its model and firmware version to the app."
+      "size": 855774,
+      "sha256": "5f0d4c3d10bf8cb72929c5743f83b5487394f035a5c7070c15acfd8375962301",
+      "notes": "- Setting up a Board no longer needs a Bluetooth pairing prompt.\n- Changing a Board's PIN now removes every other phone from it.\n- Joining someone else's Board asks for that Board's PIN.\n- Improved reliability of Board updates when more than one phone is connected.\n- Improved reliability of commands between the app and the Board.\n- The Board now reports its model and firmware version to the app.\n- A Board now has room for many more phones, and says when it is full instead of quietly refusing."
     }
   }
 }
