@@ -2,12 +2,12 @@
   "schema": 1,
   "firmware": {
     "consumer": {
-      "version": "v1.0.4",
-      "built": 1788145753,
+      "version": "v1.1.0",
+      "built": 1788487574,
       "url": "consumer.wpb",
-      "size": 844014,
-      "sha256": "3681daf0aca7387102ac2478293ff9bf6bbee0bdbba373369e15e5ee352176a1",
-      "notes": "- A factory reset is now visible: a Board with factory settings glows green.\n- The reset button responds after a 5 second hold instead of 10.\n- The blue light stays off, and the color light is brighter.\n- Improved scanning reliability.\n"
+      "size": 855022,
+      "sha256": "def7a1cbbc7d2d140b097bac4f22ade597bf8383b4811648e1108d9861e036b5",
+      "notes": "- Setting up a Board no longer needs a Bluetooth pairing prompt.\n- Changing a Board's PIN now removes every other phone from it.\n- Joining someone else's Board asks for that Board's PIN.\n- Improved reliability of Board updates when more than one phone is connected.\n- Improved reliability of commands between the app and the Board.\n- The Board now reports its model and firmware version to the app."
     }
   }
 }
