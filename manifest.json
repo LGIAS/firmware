@@ -2,12 +2,12 @@
   "schema": 1,
   "firmware": {
     "consumer": {
-      "version": "v1.1.2",
-      "built": 1790883768,
+      "version": "v1.2.0",
+      "built": 1794887660,
       "url": "consumer.wpb",
-      "size": 865902,
-      "sha256": "08fc13cec3e46140ad424dbd4d5b31648ca031d4d1e0f58a8f75cba6fe5cc76d",
-      "notes": "Thank you for using the Water Polo Board.\n\nNew in this version:\n- The progress shown while a Board updates is now the Board's real progress, not an estimate.\n- Smoother when two Water Polo apps use the same Board at the same time.\n- Improved Bluetooth stability."
+      "size": 873694,
+      "sha256": "6d3acd86d9ee06cc6e5bbfe3f7d9365094fee32b1f86c7a4f37cc1628c760b9d",
+      "notes": "Thank you for using the Water Polo Board.\n\nNew in this version:\n- A Board left stuck by an interrupted update now recovers on its own.\n- A Board now says when it is busy updating or searching.\n- Only one device searches for a scoreboard at a time.\n- Improved sharing of one Board between several apps.\n- Groundwork for Water Polo Log to control Water Polo Camera through the Board."
     }
   }
 }
